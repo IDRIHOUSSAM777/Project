@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Frontend
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.vite/
+Frontend/.env
+
+# Backend
+Backend/venv/
+Backend/__pycache__/
+Backend/.env
+Backend/*.sqlite3
+
+# Common
+*.log
+
